@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bendigoclub.git/static/css/main.e4baf2ae.css",
+    "main.js": "/bendigoclub.git/static/js/main.e74507a8.js",
+    "static/js/787.1ec742b2.chunk.js": "/bendigoclub.git/static/js/787.1ec742b2.chunk.js",
+    "index.html": "/bendigoclub.git/index.html",
+    "main.e4baf2ae.css.map": "/bendigoclub.git/static/css/main.e4baf2ae.css.map",
+    "main.e74507a8.js.map": "/bendigoclub.git/static/js/main.e74507a8.js.map",
+    "787.1ec742b2.chunk.js.map": "/bendigoclub.git/static/js/787.1ec742b2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4baf2ae.css",
+    "static/js/main.e74507a8.js"
+  ]
+}
